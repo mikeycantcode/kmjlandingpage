@@ -1,5 +1,5 @@
 import Link from 'next/link';
-
+//hi
 export default function HowDoWeDoItPage() {
   return (
     <main className="stage method-page">
